@@ -1,4 +1,4 @@
-# 📊 Projet Big Data & Machine Learning — Groupe XX
+# 📊 Projet Big Data & Machine Learning — Groupe 03
 
 Projet réalisé dans le cadre du module *Machine Learning et Big Data* — Master 2 Science des Données  
 Encadré par : Dr Constantin  
